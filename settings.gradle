@@ -1,0 +1,2 @@
+rootProject.name = "ReadingRoom"
+include ':app'
